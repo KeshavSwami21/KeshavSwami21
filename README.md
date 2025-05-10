@@ -83,9 +83,3 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/729907509388771438) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_keshav_swami_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keshavswami21/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshavswami2112@gmail.com)
 
 ##
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31szrtmnccaqb3qjn5oyfdczrmwy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31szrtmnccaqb3qjn5oyfdczrmwy&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
