@@ -1,4 +1,4 @@
-<img src="Banner.png" alt="GitHub Banner" width="100%" style="border-radius: 5px;"/>
+<img src="assets/Banner.png" alt="GitHub Banner" width="100%" style="border-radius: 5px;"/>
 
 # 👋 Hello, I'm Keshav Swami
 
@@ -15,9 +15,7 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
  <!--  Python -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  style="background-color: ffffff" />&emsp;
    <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="30" alt="django"  />&emsp;
-  <!-- Django-Rest -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-plain-wordmark.svg" height="30" alt="django rest"  />&emsp;
+  <img src="assets/django-svgrepo-com.svg" height="30" alt="django"  />&emsp;
  <!-- Linux -->
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />&emsp;
  <!-- Jupyter -->
@@ -45,11 +43,11 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
   <!-- JQuery -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />&emsp;
   <!-- MarkDown -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />&emsp;
+  <img src="assets/markdown.svg" height="30" alt="markdown logo"  />&emsp;
   <!-- Git -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />&emsp;
   <!-- Github -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />&emsp;
+  <img src="assets/github-svgrepo-com.svg" height="30" alt="github logo"  />&emsp;
   <!-- MaterialUI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />&emsp;
   <!-- Figma -->
