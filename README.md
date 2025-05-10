@@ -4,7 +4,7 @@
 
 I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data Science. I specialize in Python development, web technologies, and machine learning solutions. My passion lies in building practical, scalable tools that make technology more intuitive and accessible.
 
-<div align="left" style="background:white;">
+<div align="center" style="background:white;">
   <img src="https://streak-stats.demolab.com?user=KeshavSwami21&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />&emsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeshavSwami21&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
