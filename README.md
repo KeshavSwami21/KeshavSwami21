@@ -78,3 +78,15 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/729907509388771438) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_keshav_swami_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keshavswami21/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshavswami2112@gmail.com)
 
 <br><br>
+
+## 🌏 Join My Community – MEXT ASPIRANTS
+
+Hey there! If you've made it this far into my GitHub, I'd love to invite you to check out **MEXT ASPIRANTS** — a growing community I lead for anyone in India (or beyond!) who's interested in Japan and the MEXT Scholarship.
+
+We're not an official scholarship provider, but we offer a welcoming space where applicants and Japan enthusiasts can connect, share experiences, exchange guidance, and stay updated. It's a great way to meet like-minded people, ask questions, and feel supported throughout your MEXT journey.
+
+📌 **Follow or Join Us:**  
+🔗 [Click here to join](https://bit.ly/m/Mext-Aspirants)
+
+Whether you're just exploring the idea or getting ready to apply — you're more than welcome to be part of the community!
+
