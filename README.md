@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm Keshav Swami
 
-I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data Science. I specialize in Python development, web technologies, and machine learning solutions. My passion lies in building practical, scalable tools that make technology more intuitive and accessible.
+I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data Science. I specialize in Python development, web technologies, and machine learning solutions. My passion lies in building practical, scalable tools that make technology more intuitive and accessible.<br>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KeshavSwami21&theme=dracula" height="150" alt="streak graph"  />&emsp;
