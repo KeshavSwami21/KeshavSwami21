@@ -11,7 +11,6 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
 <br><br>
 
 # 💻 Tech Stack:
-
 <div align="left">
  <!--  Python -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />&emsp;
@@ -68,18 +67,17 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
 </picture>
 <br><br>
 
-## 🏆 Trophies
+# 🏆 Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KeshavSwami21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ###
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+<br><br>
 
-
-##
-## 🌐 Socials:
+# 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/users/729907509388771438) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_keshav_swami_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keshavswami21/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshavswami2112@gmail.com)
 
-##
+<br><br>
