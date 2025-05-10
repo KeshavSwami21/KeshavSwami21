@@ -8,10 +8,11 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
   <img src="https://streak-stats.demolab.com?user=KeshavSwami21&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />&emsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KeshavSwami21&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+<br>
+<br>
 
-##
+## 💻 Tech Stack:
 <div align="left">
- <h2>💻 Tech Stack:</h2>
  <!--  Python -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />&emsp;
    <!-- Django -->
