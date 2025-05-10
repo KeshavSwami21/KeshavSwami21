@@ -73,7 +73,7 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
 
 <br><br>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> </div>
 
 <br><br>
 
