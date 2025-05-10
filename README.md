@@ -10,8 +10,7 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
 </div>
 <br><br>
 
-## 💻 Tech Stack:
-<br>
+# 💻 Tech Stack:
 
 <div align="left">
  <!--  Python -->
