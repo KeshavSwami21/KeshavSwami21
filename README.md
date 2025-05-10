@@ -13,7 +13,7 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
 # 💻 Tech Stack:
 <div align="left">
  <!--  Python -->
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />&emsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  style="background-color: ffffff" />&emsp;
    <!-- Django -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="30" alt="django"  />&emsp;
   <!-- Django-Rest -->
