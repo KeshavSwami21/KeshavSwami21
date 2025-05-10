@@ -11,7 +11,7 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
 <br><br>
 
 # 💻 Tech Stack:
-<div align="left" style="background-color: #f0f0f0;"">
+<div align="left" style="background-color: #f0f0f0; padding: 10px; border-radius: 8px;"">
  <!--  Python -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />&emsp;
    <!-- Django -->
