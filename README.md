@@ -63,8 +63,8 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
 </picture>
 <br><br>
 
-# 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=KeshavSwami21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<!-- # 🏆 Trophies
+![](https://github-profile-trophy.vercel.app/?username=KeshavSwami21&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 
 <br><br>
