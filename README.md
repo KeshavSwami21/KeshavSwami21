@@ -11,7 +11,7 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
 <br>
 <br>
 
-## 💻 Tech Stack:
+<h2> 💻 Tech Stack: </h2>
 <div align="left">
  <!--  Python -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />&emsp;
