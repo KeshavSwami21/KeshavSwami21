@@ -81,12 +81,12 @@ I’m a tech enthusiast and recent graduate in Artificial Intelligence and Data 
 
 ## 🌏 Join My Community – MEXT ASPIRANTS
 
-Hey there! If you've made it this far into my GitHub, I'd love to invite you to check out **MEXT ASPIRANTS** — a growing community I lead for anyone in India (or beyond!) who's interested in Japan and the MEXT Scholarship.
+Hey there! Suppose you've made it this far into my GitHub. In that case, I'd love to invite you to check out **Keiken MEXT** — a growing community I lead for anyone in India (or beyond!) who's interested in Japan and the MEXT Scholarship.
 
 We're not an official scholarship provider, but we offer a welcoming space where applicants and Japan enthusiasts can connect, share experiences, exchange guidance, and stay updated. It's a great way to meet like-minded people, ask questions, and feel supported throughout your MEXT journey.
 
 📌 **Follow or Join Us:**  
-🔗 [Click here to join](https://bit.ly/m/Mext-Aspirants)
+🔗 [Click here to join](https://bit.ly/m/Keiken)
 
 Whether you're just exploring the idea or getting ready to apply — you're more than welcome to be part of the community!
 
